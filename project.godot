@@ -17,3 +17,7 @@ config/icon="res://icon.svg"
 [dotnet]
 
 project/assembly_name="SockProject 1"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
